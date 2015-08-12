@@ -1,0 +1,48 @@
+h1{
+text-align: center;
+font-size: 40px;
+line-height: 10%;
+}
+body {
+color: #5D3636;
+background:rgb(240,231,212);
+text-align: center;
+font-family: "Century Gothic", Century Gothic, sans-serif;
+}
+a {
+	color:#5D3636;
+	font-size: 26px;
+	text-decoration: none;
+}
+li {
+	display: inline;
+	font-size: 16px;
+	text-align: center;
+	padding: 10px;
+	background-color: #5D3636;
+	color:rgb(240,231,212);
+	margin-bottom: 20px;
+}
+.image {
+	padding: 0px;
+	display: block;
+	border-spacing: 0px;
+}
+.offerings {
+	font-size: 26px;
+	padding: 1px;
+	line-height: 1%;
+	font-weight: bold;
+	text-align: center;
+}
+.contact {
+	padding: 10px;
+	line-height: 10%;
+	font-weight: bold;
+}
+
+#slogan {
+background-color: #5D3636;
+color:rgb(240,231,212);
+font-size: 20px;
+}
