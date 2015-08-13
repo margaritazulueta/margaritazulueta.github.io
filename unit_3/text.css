@@ -1,13 +1,20 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
 h1{
 text-align: center;
-font-size: 40px;
-line-height: 10%;
+font-size: 60px;
 }
 body {
 color: #5D3636;
 background:rgb(240,231,212);
 text-align: center;
 font-family: "Century Gothic", Century Gothic, sans-serif;
+}
+img {
+	height: 544;
+	width: 1266;
 }
 a {
 	color:#5D3636;
@@ -19,25 +26,18 @@ li {
 	font-size: 16px;
 	text-align: center;
 	padding: 10px;
+	margin: 50px;
 	background-color: #5D3636;
 	color:rgb(240,231,212);
 	margin-bottom: 20px;
 }
-.image {
-	padding: 0px;
-	display: block;
-	border-spacing: 0px;
-}
+
 .offerings {
 	font-size: 26px;
-	padding: 1px;
-	line-height: 1%;
 	font-weight: bold;
 	text-align: center;
 }
 .contact {
-	padding: 10px;
-	line-height: 10%;
 	font-weight: bold;
 }
 
@@ -45,4 +45,5 @@ li {
 background-color: #5D3636;
 color:rgb(240,231,212);
 font-size: 20px;
+text-decoration: italic;
 }

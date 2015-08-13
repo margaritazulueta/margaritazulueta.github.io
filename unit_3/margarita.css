@@ -1,0 +1,64 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+text-align: center;
+font-size: 40px;
+/* line-height: 10%; */
+}
+img {
+	height: 566px;
+	width: 1980px;
+}
+body {
+color: #5D3636;
+background:rgb(240,231,212);
+text-align: center;
+font-family: "Century Gothic", Century Gothic, sans-serif;
+font-size: 24px;
+}
+a {
+	color:#5D3636;
+	font-size: 30px;
+	text-decoration: none;
+}
+li {
+	display: inline-block;
+	font-size: 22px;
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;
+	margin-right: 30px;
+	margin-left: 30px;
+	background-color: #5D3636;
+	color:rgb(240,231,212);
+	margin-bottom: 20px;
+}
+
+.offerings {
+	font-size: 30px;
+	padding: 1px;
+/* 	line-height: 1%; */
+	font-weight: bold;
+	text-align: center;
+}
+.description {
+	margin: 15px;
+	margin-top: 10px;
+}
+.contact {
+	padding: 10px;
+/* 	line-height: 10%; */
+	font-weight: bold;
+}
+
+#slogan {
+background-color: #5D3636;
+color:rgb(240,231,212);
+font-size: 30px;
+}
