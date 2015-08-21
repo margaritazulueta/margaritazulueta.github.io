@@ -5,9 +5,9 @@
 a {
 	text-decoration: none;
 	line-height: 1.618em;
-	color:white;
 	text-transform: uppercase;
 	letter-spacing: .3em;
+	color:#000;
 	font-family:sans-serif;
 }
 nav {
@@ -18,8 +18,10 @@ li {
 }
 h1{
 text-align: center;
-font-size: 8em;
-font-family: sans-serif;
+}
+img {
+	width: 50%;
+	height: 50%;
 }
 body {
 text-align: center;
@@ -30,7 +32,7 @@ position:absolute;
 	text-decoration: none;
 	text-align: center;
 	text-transform: uppercase;
-	color: black; 
+	color: #000; 
 	font-size: 1.2em;
 	padding: 1em;
 	margin: auto;
@@ -38,8 +40,8 @@ position:absolute;
 .title {
 	margin:auto;
 	padding:5em;
-	background-color: black;
-	color:white;
+	background-color: #FFF;
+	color:#000;
 }
 .categories {
 	text-decoration: none;
@@ -49,6 +51,7 @@ position:absolute;
 	margin:1em;
 	padding: 1em;
 	font-size: 1.2em;
+	color:#FFF;
 
 }
 .description {
@@ -59,9 +62,11 @@ position:absolute;
 	padding:5em;
 	font-size: 1.7em;
 	font-family: 'Josefin Slab', serif;
+	background-color: #000;
+	color: #FFF;
 }
 .fourth {
-	background-color: black;
+	background-color: #FFF;
 }
 .articles {
 	display: inline-block;
@@ -73,6 +78,7 @@ position:absolute;
 	text-transform: uppercase;
 	font-family:sans-serif;
 	font-size: 1.2em;
+	color:#000;
 }
 .suggestions {
 	display: inline-block;
@@ -91,6 +97,6 @@ position:absolute;
 	font-size: 2em;
 	margin:.5em;
 	padding: .5em;
-	color:white;
+	color:#000;
 	font-family: 'Josefin Slab', serif;
 }
